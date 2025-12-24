@@ -1,3 +1,0 @@
-# ast-grep configuration for import rewriting
-ruleDirs:
-  - rules

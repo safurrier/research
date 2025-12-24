@@ -1,5 +1,0 @@
-node_modules/
-*.json
-!package.json
-!results.json
-!categories.json
